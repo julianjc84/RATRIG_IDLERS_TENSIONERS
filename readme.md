@@ -1,6 +1,6 @@
-Many thanks to the VzBot and the Voron team for making excellent printers.
+Many thanks to the RATRIG team for making excellent printers.
 
-# VORON-2.4-TOP-MOUNT-X-RAIL
+# RAT RIG XY IDLERS TENSIONERS
 
 VORON-2.4-TOP-MOUNT-X-RAIL
 - 2023-02-01 - v4 uploaded and running.
@@ -13,18 +13,8 @@ VORON-2.4-TOP-MOUNT-X-RAIL
 
 - ratrig
 
-# Inspired By
-
-- https://github.com/VzBoT3D/Vz-Printhead-Printed
-
-
 # photos
 ![](images/input_shaper/x.png)
-
-
-# more photos
-
-![](images/v3/l_front.png) 
 
 
 # YouTube
@@ -37,7 +27,6 @@ VORON-2.4-TOP-MOUNT-X-RAIL
 
 - has no known issues.
 
-
 # Feedback
 
  - if you install this please send me a photo on discord!
@@ -45,3 +34,5 @@ VORON-2.4-TOP-MOUNT-X-RAIL
  - Discord julianjc84#7938
  
  # CAD
+ 
+https://cad.onshape.com/documents/cb96e96d451451da303e27a6/w/0c1d47e33183047f94674171/e/046a3d88bbcad2d9f30d4c1d?renderMode=0&uiState=64130eeb3fb17b4c3dee6c1c
