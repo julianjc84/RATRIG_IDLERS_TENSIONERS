@@ -10,7 +10,7 @@ RAT RIG XY IDLERS TENSIONERS TENSIONABLE
 # Features
 
 - XY idlers
-- TENSIONERS TENSONABLE 14MM OF BELT TENSION TRAVEL
+- Tensioners and Tensonable 12mm of belt adjustment travel
 - Same size formfactor as stock idlers
 ![](images/TOPSIZING.jpg)
 - Designed for use with the VZ Hotend Carriage https://github.com/VzBoT3D/Vz-Printhead-Printed
