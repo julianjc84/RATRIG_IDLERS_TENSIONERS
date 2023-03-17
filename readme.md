@@ -5,18 +5,18 @@ Many thanks to the RATRIG team for making excellent printers.
 RAT RIG XY IDLERS TENSIONERS TENSIONABLE
 
 - 2023-02-17 - REVISION V4 BUILD
-![](images/images/IDLER_SET.jpg)
+![](images/IDLER_SET.jpg)
 
 # Features
 
 - XY idlers
 - TENSIONERS TENSONABLE 14MM OF BELT TENSION TRAVEL
 - Same size formfactor as stock idlers
-![](images/images/TOPSIZING.jpg)
+![](images/TOPSIZING.jpg)
 - Designed for use with the VZ Hotend Carriage https://github.com/VzBoT3D/Vz-Printhead-Printed
 
 # BOM
-![](images/images/BOM.jpg)
+![](images/BOM.jpg)
 - X2 M5 50 mm minimum OR M5 65-70MM PINS
 - x4 M4 60mm TENSION PULL BOLTS
 - X12 M6 8MM BOLTS
@@ -26,13 +26,13 @@ RAT RIG XY IDLERS TENSIONERS TENSIONABLE
 # Special Custom Requriments
 
 - 1 drill hole in front corner plates to be able to access the bottom tension bolt
-![](images/images/FRONTHOLE.jpg)
+![](images/FRONTHOLE.jpg)
 
 # Photos EXTRAS
 
-![](images/images/BULD1.jpg)
-![](images/images/INSTALLED1.jpg)
-![](images/images/INSTALLEDSIDE.jpg)
+![](images/BULD1.jpg)
+![](images/INSTALLED1.jpg)
+![](images/INSTALLEDSIDE.jpg)
 
 # YouTube
 
