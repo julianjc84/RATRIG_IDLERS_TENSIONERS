@@ -31,7 +31,7 @@ RAT RIG XY IDLERS TENSIONERS TENSIONABLE
 # Photos EXTRAS
 
 ![](images/BULD1.jpg)
-![](images/INSTALLED1.jpg)
+![](images/installed1.jpg)
 ![](images/INSTALLEDSIDE.jpg)
 
 # YouTube
