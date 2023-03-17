@@ -2,30 +2,48 @@ Many thanks to the RATRIG team for making excellent printers.
 
 # RAT RIG XY IDLERS TENSIONERS
 
-VORON-2.4-TOP-MOUNT-X-RAIL
-- 2023-02-01 - v4 uploaded and running.
+RAT RIG XY IDLERS TENSIONERS TENSIONABLE
+
+- 2023-02-17 - REVISION V4 BUILD
 
 # Features
 
-- XY idlers that are tension
+- XY idlers
+- TENSIONERS TENSONABLE 14MM OF BELT TENSION TRAVEL
+- Same size formfactor as stock idlers
+- Designed for use with the VZ Hotend Carriage https://github.com/VzBoT3D/Vz-Printhead-Printed
 
-# Requriments
+# BOM
+- X2 M5 50 mm minimum OR M5 65-70MM PINS
+- x4 M4 60mm TENSION PULL BOLTS
+- X12 M6 8MM BOLTS
+- X12 M6 TEE NUTNS 
+- EXISTING hardware set from idlers
 
-- ratrig
+# Special Custom Requriments
 
-# photos
-![](images/input_shaper/x.png)
+- 1 drill hole in front corner plates to be able to access the bottom tension bolt
+
+# Photos
+![](images/images/1.jpg)
+![](images/images/2.jpg)
+![](images/images/3.jpg)
+![](images/images/4.jpg)
+![](images/images/5.jpg)
+![](images/images/6.jpg)
+![](images/images/7.jpg)
 
 
 # YouTube
 
-- Watch the video
+- place holder video
 
-[![youtube journey](https://img.youtube.com/vi/8w1qv4k_UrQ/0.jpg)](https://www.youtube.com/watch?v=8w1qv4k_UrQ)
+[![youtube COMING SOON](https://img.youtube.com/vi/8w1qv4k_UrQ/0.jpg)](https://www.youtube.com/watch?v=8w1qv4k_UrQ)
 
 # Known Issues_?
 
 - has no known issues.
+- yet to be tested still building machine
 
 # Feedback
 
