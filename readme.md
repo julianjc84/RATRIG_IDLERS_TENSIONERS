@@ -19,6 +19,7 @@ RAT RIG XY IDLERS TENSIONERS TENSIONABLE
 ![](images/BOM.jpg)
 - X2 M5 50 mm minimum OR M5 65-70MM PINS
 - x4 M4 60mm TENSION PULL BOLTS
+- x4 M4 Washers
 - X12 M6 8MM BOLTS
 - X12 M6 TEE NUTNS 
 - EXISTING hardware set from idlers
