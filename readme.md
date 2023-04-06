@@ -6,8 +6,8 @@ RAT RIG XY IDLERS TENSIONERS TENSIONABLE
 For Both ENCLOSURE and NON-ENCLOSURE Builds.
 
 - 2023-02-17 - NON-ENCLOSURE supported
-- 2023-04-06 - ENCLOSURE supported
 ![](images/IDLER_SET.jpg)
+- 2023-04-06 - ENCLOSURE supported
 ![](images/ENCLOSURE.gif)
 
 # FEATURES
