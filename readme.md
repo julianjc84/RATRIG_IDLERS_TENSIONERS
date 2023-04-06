@@ -8,6 +8,7 @@ For Both ENCLOSURE and NON-ENCLOSURE Builds.
 - 2023-02-17 - NON-ENCLOSURE supported
 - 2023-04-06 - ENCLOSURE supported
 ![](images/IDLER_SET.jpg)
+![](images/ENCLOSURE.gif)
 
 # FEATURES
 
@@ -34,7 +35,6 @@ https://ratrig.dozuki.com/Guide/04.+CoreXY+Idler+Assemblies/161?lang=en
 
 # ENSLOSURE SUPPORTED
 
-![](images/ENCLOSURE.gif)
 ![](images/ENCLOSURE_REAR_R.png)
 ![](images/ENCLOSURE_SIDE_R.png)
 ![](images/ENCLOSURE_SAMPLE_MOUNT.jpg)
