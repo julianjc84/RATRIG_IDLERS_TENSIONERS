@@ -3,20 +3,21 @@ Many thanks to the RATRIG team for making excellent printers.
 # RAT RIG XY IDLERS TENSIONERS
 
 RAT RIG XY IDLERS TENSIONERS TENSIONABLE
+For Both ENCLOSURE and NON-ENCLOSURE Builds.
 
-- 2023-02-17 - REVISION V4 BUILD
+- 2023-02-17 - NON-ENCLOSURE supported
+- 2023-04-06 - ENCLOSURE supported
 ![](images/IDLER_SET.jpg)
 
 # FEATURES
 
-- ENCLOSURE 2.0 SUPPORTED!
-- XY idlers
-- Tensioners and Tensonable ~10mm of belt adjustment travel HEAPS!
-- Same/similar size formfactor as stock idlers
+- Both ENCLOSURE and NON-ENCLOSURE SUPPORTED!
+- XY idlers thar are Tensioners and Tensonable ~9mm of belt adjustment travel.
+- Same size formfactor as stock idlers.
 ![](images/TOPSIZING.jpg)
-- Designed for use with the VZ Hotend Carriage https://github.com/VzBoT3D/Vz-Printhead-Printed
+- Designed for use with the VZBot style Hotend Carriages https://github.com/VzBoT3D/Vz-Printhead-Printed
 
-# BOM ENCLOSUR  - SAME PARTS AS THE ENCLOSURE IDLERS
+# BOM ENCLOSURE  - SAME PARTS AS THE ENCLOSURE IDLERS
 
 legacy image
 ![](images/BOM.jpg)
@@ -55,7 +56,7 @@ https://ratrig.dozuki.com/Guide/04.+CoreXY+Idler+Assemblies/161?lang=en
 # ISSUES?
 
 - PLEASE SEND ME FEEDBACK
-- might have collision issues on enclosue with the leadscrew. need beta tester
+- Might have collision issues on enclosure lead screw support baracket mount. It will be close - pretty sure it fits with 3mm gap
 
 # FEEDBACK
 
