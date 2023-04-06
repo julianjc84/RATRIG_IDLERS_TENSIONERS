@@ -34,6 +34,12 @@ https://ratrig.dozuki.com/Guide/04.+CoreXY+Idler+Assemblies/161?lang=en
 
 # ENSLOSURE SUPPORTED
 
+![](images/ENCLOSURE.gif)
+![](images/ENCLOSURE_REAR_R.png)
+![](images/ENCLOSURE_SIDE_R.png)
+![](images/ENCLOSURE_SAMPLE_MOUNT.jpg)
+
+CAD Photos
 ![](images/ENCLOSURE_ISO.png)
 ![](images/ENCLOSURE_FRONT.png)
 ![](images/ENCLOSURE_SIDE.png)
