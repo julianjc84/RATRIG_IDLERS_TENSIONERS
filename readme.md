@@ -18,15 +18,18 @@ RAT RIG XY IDLERS TENSIONERS TENSIONABLE
 
 # BOM ENCLOSUR  - SAME PARTS AS THE ENCLOSURE IDLERS
 
+legacy image
 ![](images/BOM.jpg)
+- Changes have been made to the idlers so they match the stock build setup/alignments refer to offical manual for spacers/install etc. will add photo soon.
+https://ratrig.dozuki.com/Guide/04.+CoreXY+Idler+Assemblies/161?lang=en
+- EXISTING hardware set from idlers 6MM SPACERS 3MM SPACERS USE GUIDE ABOVE 
 - X2 M5 50 mm minimum OR M5 65-70MM PINS
 - x4 M4 60mm TENSION PULL BOLTS
 - x4 M4 HeatSetNuts
 - x2 M5 HeatSetNuts
 - x4 M4 Washers
 - X12 M6 8MM BOLTS
-- X12 M6 TEE NUTNS 
-- EXISTING hardware set from idlers 6MM SPACERS 3MM SPACERS REFER TO https://ratrig.dozuki.com/Guide/04.+CoreXY+Idler+Assemblies/161?lang=en
+- X12 M6 TEE NUTS 
 
 # ENSLOSURE SUPPORTED
 
@@ -37,7 +40,6 @@ RAT RIG XY IDLERS TENSIONERS TENSIONABLE
 
 # NON-ENCLOSURE
 
-![](images/BULD1.jpg)
 ![](images/installed1.jpg)
 ![](images/INSTALLEDSIDE.jpg)
 
@@ -53,6 +55,7 @@ RAT RIG XY IDLERS TENSIONERS TENSIONABLE
 # ISSUES?
 
 - PLEASE SEND ME FEEDBACK
+- might have collision issues on enclosue with the leadscrew. need beta tester
 
 # FEEDBACK
 
