@@ -57,9 +57,12 @@ CAD Photos
 
 # YOUTUBE
 
-
 [![youtube Rat Rig Idlers Tensionable](https://i9.ytimg.com/vi_webp/C73bEGyYcVo/mqdefault.webp?v=6440a8e5&sqp=CLDVgqIG&rs=AOn4CLBcr2tYOADrB82zP5iITBneS3muaA)](https://youtu.be/C73bEGyYcVo)
 
+# InputShaper 500x500 build
+
+![](images/shaper_calibrate_y.png)
+![](images/shaper_calibrate_x.png)
 
 # ISSUES?
 
