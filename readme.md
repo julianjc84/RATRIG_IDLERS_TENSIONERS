@@ -68,8 +68,7 @@ CAD Photos
 
  - if you install this please send me a photo on discord!
  - Discord julianjc84#7938
- - ratrigidlers@jc84.com
  
- # CAD
+ # CAD - onshape
  
-https://cad.onshape.com/documents/cb96e96d451451da303e27a6/w/0c1d47e33183047f94674171/e/046a3d88bbcad2d9f30d4c1d?renderMode=0&uiState=64130eeb3fb17b4c3dee6c1c
+https://cad.onshape.com/documents/cb96e96d451451da303e27a6/w/4e5024d18ec9d294061dfea9/e/b381e72c0cc41d9cad0768ad
